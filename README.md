@@ -1,2 +1,0 @@
-# emotionalmusicgen
-EmotionalMusicGen
